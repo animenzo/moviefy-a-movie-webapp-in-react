@@ -34,6 +34,6 @@ const Cards = ({ data, title }) => {
     </div>
   );
 };
-// https://www.eporner.com/video-IvF2P51uAIZ/wristwatch-that-stops-time-freezing-time/?trx=1227735290aee694b81473a256bea12420712
+
 
 export default Cards;
