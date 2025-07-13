@@ -65,4 +65,4 @@ Feel free to fork, open issues, and submit pull requests to improve Moviefy!
 
 ## Author
 
-Created by [animenzo](https://github.com/animenzo)
+Created by [piyushtailor](https://github.com/animenzo)
